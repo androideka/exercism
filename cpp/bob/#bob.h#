@@ -1,0 +1,5 @@
+class bob{
+public:
+  char* hey( char* message );
+
+};
